@@ -2,7 +2,7 @@
 
 ---
 
-Docker ont yarn is a simply system to submit your hadoop job.
+Docker on yarn is a simple system to submit your hadoop job.
 
 ---
 
